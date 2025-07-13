@@ -49,5 +49,5 @@ Implement the character design in Unity, Rig it, and animate it.
 Character - 
 ![img_2.png](img_2.png)
 
-How the screen look like, please only do the button, you can use it as reference 
+How the screen look like, please only do the character, you can use it as reference 
 ![img.png](img.png)
