@@ -32,4 +32,9 @@ Implement the button from the PSD file into Unity and add effects.
 ### 5. **Add Video of your work to the repository**
 
 # Mocks 
+
+Full button area with energy is part of the test
+![img_1.png](img_1.png)
+
+How the screen look like, please only do the button, you can use it as reference 
 ![img.png](img.png)
