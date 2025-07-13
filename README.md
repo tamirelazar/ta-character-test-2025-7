@@ -1,1 +1,35 @@
-# ta-ui-test-2025-7
+# Tech Art UI Button Test 7/2025
+
+This is a
+test for the Tech Art UI Button for Sugar Games Ltd.
+
+## Prerequisites
+
+1. Unity 6000.0.51f1
+2. Adobe Photoshop
+3. Open Project [My project](My%20project) and edit the scene[SampleScene.unity](My%20project/Assets/Scenes/SampleScene.unity)
+
+## Task Description
+
+Implement the button from the PSD file into Unity and add effects.
+
+## Instructions
+
+1. Open PSD file [LobbuButtonTest.psd](LobbuButtonTest.psd)
+2. Cut sprites from the PSD 
+3. Use TextureSheet to import the sprites into Unity, recommend to use - https://www.codeandweb.com/texturepacker
+4. Use the sprites to create the button in Unity Scene
+5. Make sure there are 3 states: Normal, Pressed, AutoSpin
+6. Add Effects to the button, should feel good and juicy
+
+## Submission
+
+1. Fork this repository
+2. Add all your work to the project
+3. Push to your fork
+4. Send us a link to the fork
+
+### 5. **Add Video of your work to the repository**
+
+# Mocks 
+![img.png](img.png)
