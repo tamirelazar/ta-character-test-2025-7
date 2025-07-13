@@ -3,6 +3,17 @@
 This is a
 test for the Tech Art UI Button for Sugar Games Ltd.
 
+## Test Time & Notes
+
+1. The test should take between 4 to 8 hours, depending on the level and speed of the candidate.
+2. Feel free to ask any questions any guidance the you need. [shahar@sugargames.co](https://github.com/sgr-games/ta-ui-test-2025-7)
+3. You can use any resources you want, same as real world.
+   1. ChatGPT
+   2. Tools
+   3. Internet
+   4. Cursor
+   5. Assets
+
 ## Prerequisites
 
 1. Unity 6000.0.51f1
@@ -28,6 +39,7 @@ Implement the button from the PSD file into Unity and add effects.
 2. Add all your work to the project
 3. Push to your fork
 4. Send us a link to the fork
+5. Remember to give access to [shahar@sugargames.co](https://github.com/sgr-games/ta-ui-test-2025-7)
 
 ### 5. **Add Video of your work to the repository**
 
