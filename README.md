@@ -1,7 +1,6 @@
-# Tech Art UI Button Test 7/2025
+# Tech Art Character Test 7/2025
 
-This is a
-test for the Tech Art UI Button for Sugar Games Ltd.
+This is a test for the Tech Art Character for Sugar Games Ltd.
 
 ## Test Time & Notes
 
@@ -22,16 +21,18 @@ test for the Tech Art UI Button for Sugar Games Ltd.
 
 ## Task Description
 
-Implement the button from the PSD file into Unity and add effects.
+Implement the character design in Unity, Rig it, and animate it.
 
 ## Instructions
 
-1. Open PSD file [LobbuButtonTest.psd](LobbuButtonTest.psd)
+1. Open PSD file [hero_cat.psd](hero_cat.psd)
 2. Cut sprites from the PSD 
-3. Use TextureSheet to import the sprites into Unity, recommend to use - https://www.codeandweb.com/texturepacker
-4. Use the sprites to create the button in Unity Scene
-5. Make sure there are 3 states: Normal, Pressed, AutoSpin
-6. Add Effects to the button, should feel good and juicy
+3. Import the sprites to the project
+4. Using Unity2D Bones rig the character
+5. Bring the character into the scene
+6. Animate the character
+   1. Idle
+   2. Attack
 
 ## Submission
 
@@ -45,8 +46,8 @@ Implement the button from the PSD file into Unity and add effects.
 
 # Mocks 
 
-Full button area with energy is part of the test
-![img_1.png](img_1.png)
+Character - 
+![img_2.png](img_2.png)
 
 How the screen look like, please only do the button, you can use it as reference 
 ![img.png](img.png)
