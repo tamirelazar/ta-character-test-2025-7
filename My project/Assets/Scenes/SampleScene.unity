@@ -609,6 +609,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7500448970847632785, guid: 1a601766aad3f4981bab6d17aa1e7ec3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.72107196
+      objectReference: {fileID: 0}
+    - target: {fileID: -7500448970847632785, guid: 1a601766aad3f4981bab6d17aa1e7ec3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7500448970847632785, guid: 1a601766aad3f4981bab6d17aa1e7ec3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.69286025
+      objectReference: {fileID: 0}
+    - target: {fileID: -7500448970847632785, guid: 1a601766aad3f4981bab6d17aa1e7ec3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -87.714
+      objectReference: {fileID: 0}
     - target: {fileID: 3347253621771901486, guid: 1a601766aad3f4981bab6d17aa1e7ec3, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.23638156
@@ -694,9 +710,12 @@ MonoBehaviour:
   m_Solvers:
   - {fileID: 825222183}
   - {fileID: 1929245500}
+  - {fileID: 0}
   m_Weight: 1
   m_AlwaysUpdate: 1
   m_SolverEditorData:
+  - color: {r: 0, g: 1, b: 0, a: 1}
+    showGizmo: 1
   - color: {r: 0, g: 1, b: 0, a: 1}
     showGizmo: 1
   - color: {r: 0, g: 1, b: 0, a: 1}
@@ -816,13 +835,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1946066690}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0.027250368, w: 0.9996287}
+  m_LocalRotation: {x: -0, y: -0, z: -0.026120285, w: 0.9996588}
   m_LocalPosition: {x: 0.34, y: -0.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1133272949}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -3.297}
 --- !u!1 &1973340617
 GameObject:
   m_ObjectHideFlags: 0
@@ -847,13 +866,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1973340617}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.023500467, w: 0.99972385}
+  m_LocalRotation: {x: -0, y: -0, z: 0.010696438, w: 0.9999428}
   m_LocalPosition: {x: 0.34, y: -0.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 281927867}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 4.468}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
